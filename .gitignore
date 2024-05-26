@@ -1,0 +1,34 @@
+csv_json.py
+secret_csv_json.py
+data_csv_json.py
+tips.txt
+*~
+*.py[co]
+
+*.markdown
+
+# Packages
+*.log
+*.csv
+*.egg
+*.egg-info
+*.xlsx
+
+dist
+main
+tests
+build
+eggs
+build
+parts
+develop-eggs
+.installed.cfg
+
+
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
